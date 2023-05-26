@@ -1,0 +1,25 @@
+body {
+    background-image: linear-gradient(to right, #34495E, #1C2833);
+}
+
+.App {
+    margin-top: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+.wrapper {
+    background-color: white;
+    width: 38%;
+    border-radius: 1rem;
+    /*******/
+    border: 1rem #17202A;
+    padding: .1rem;
+    box-shadow: 0.3rem 0.63rem;
+}
+
+.row {
+    display: flex;
+}
